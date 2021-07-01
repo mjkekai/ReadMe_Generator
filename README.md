@@ -1,6 +1,6 @@
-# Taco
+# ReadMe Generator
 
-![GitHub license](https://img.shields.io/badge/license-BSD3-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-NONE-blue.svg)
 
 ## Table of Contents (Optional)
 
@@ -11,27 +11,26 @@
 - [Credits](#credits)
 - [Contributing](#contributing)
 
-## Description 
+## Description
 
-taco
+A command-line application that takes user input and creates a professional ReadME using Node JS and Inquirer
 
 ## Usage
 
-taco
+An easy to use application to help generate a high-quality professional ReadMe for projects
 
 ## Contributing
 
-taco
+Myself
 
 ## Installation
 
-try
+N/A
 
 ## Credits
 
-
+None
 
 ## License
 
-BSD3
-
+NONE

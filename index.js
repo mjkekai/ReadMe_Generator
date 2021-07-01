@@ -30,7 +30,7 @@ inquirer
       type: "list",
       name: "license",
       message: "license?",
-      choices: ["MIT", "BSD3", "APACHE2.0", "GPL3.0"],
+      choices: ["MIT", "BSD3", "APACHE2.0", "GPL3.0", "NONE"],
     },
     {
       type: "input",
